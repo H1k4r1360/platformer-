@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://2q3mid8rw2p7"]
 
-[ext_resource type="Texture2D" uid="uid://cav3aoalxsxr1" path="res://icon.svg" id="1_hg7qw"]
+[ext_resource type="Texture2D" uid="uid://bu2t2mav2mqy2" path="res://assets/sprite 1- Ryder.png" id="1_8jme2"]
 
 [sub_resource type="GDScript" id="GDScript_dmdy3"]
 script/source = "extends CharacterBody2D
@@ -41,6 +41,6 @@ position = Vector2(-4.5, -1)
 shape = SubResource("RectangleShape2D_xrivr")
 
 [node name="Icon" type="Sprite2D" parent="." unique_id=581571773]
-position = Vector2(-1, -2)
-scale = Vector2(0.84570307, 0.7226557)
-texture = ExtResource("1_hg7qw")
+position = Vector2(-15.000001, 32.000004)
+scale = Vector2(0.8728515, 0.78632784)
+texture = ExtResource("1_8jme2")

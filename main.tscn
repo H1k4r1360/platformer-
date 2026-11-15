@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bpmrvciu2q13f"]
 
-[ext_resource type="PackedScene" uid="uid://2q3mid8rw2p7" path="res://scene/bartholomew.tscn" id="1_ig7tw"]
+[ext_resource type="PackedScene" uid="uid://2q3mid8rw2p7" path="res://script/bartholomew.tscn" id="1_ig7tw"]
 [ext_resource type="Script" uid="uid://b3byiijrehg4o" path="res://scene/bartholomew.gd" id="2_0xm2m"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_b1lj4"]
